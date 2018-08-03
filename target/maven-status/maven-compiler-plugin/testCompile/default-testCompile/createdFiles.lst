@@ -1,0 +1,16 @@
+com/niche/jhipster/web/rest/errors/ExceptionTranslatorTestController$TestDTO.class
+com/niche/jhipster/web/rest/errors/ExceptionTranslatorTestController$TestResponseStatusException.class
+com/niche/jhipster/web/rest/TestUtil$ZonedDateTimeMatcher.class
+com/niche/jhipster/web/rest/TestUtil.class
+com/niche/jhipster/repository/CustomAuditEventRepositoryIntTest.class
+com/niche/jhipster/web/rest/errors/ExceptionTranslatorIntTest.class
+com/niche/jhipster/web/rest/AccountResourceIntTest.class
+com/niche/jhipster/config/WebConfigurerTest.class
+com/niche/jhipster/web/rest/LogsResourceIntTest.class
+com/niche/jhipster/config/WebConfigurerTestController.class
+com/niche/jhipster/web/rest/AuditResourceIntTest.class
+com/niche/jhipster/security/SecurityUtilsUnitTest.class
+com/niche/jhipster/web/rest/util/PaginationUtilUnitTest.class
+com/niche/jhipster/web/rest/UserResourceIntTest.class
+com/niche/jhipster/web/rest/errors/ExceptionTranslatorTestController.class
+com/niche/jhipster/service/UserServiceIntTest.class

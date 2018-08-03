@@ -1,0 +1,13 @@
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/TestUtil.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/errors/ExceptionTranslatorIntTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/errors/ExceptionTranslatorTestController.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/LogsResourceIntTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/AccountResourceIntTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/UserResourceIntTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/service/UserServiceIntTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/security/SecurityUtilsUnitTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/repository/CustomAuditEventRepositoryIntTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/AuditResourceIntTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/config/WebConfigurerTestController.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/web/rest/util/PaginationUtilUnitTest.java
+/home/admin123/Documents/sample-keycloak/src/test/java/com/niche/jhipster/config/WebConfigurerTest.java
